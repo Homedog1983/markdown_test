@@ -1,26 +1,16 @@
 <h3 align=center>h3 with align</h3>
 
-
-<h3 style="text-align: center;">h3 with inline stile attr</h3>
-
-
-<style>
-  .center {
-    text-align: center;
-  }
-</style>
-
-<h4 class="center">h4 with style align center</h4>
-
-
-<div style="text-align: center;">
-
-  <p>asdfasdf</p>
-### sdfgsdfgsd
+<p align="center">
 
 ![alt text](https://markdown.land/wp-content/uploads/2021/06/markdown-512px.png "Our logo")
 
+</p>
+
+
+<div align="center">
+
+### div align center
+
+![alt text](https://markdown.land/wp-content/uploads/2021/06/markdown-512px.png "Our logo")
+  
 </div>
-
-### Markdown center style {#id .center}
-
