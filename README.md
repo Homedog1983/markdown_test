@@ -4,9 +4,6 @@
 <h3 style="text-align: center;">h3 with inline stile attr</h3>
 
 
-<h1 style="text-align: center;">Test</h1>
-
-
 <style>
   .center {
     text-align: center;
@@ -24,3 +21,6 @@
 ![alt text](https://markdown.land/wp-content/uploads/2021/06/markdown-512px.png "Our logo")
 
 </div>
+
+### Markdown center style {#id .center}
+
